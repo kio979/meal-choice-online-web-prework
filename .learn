@@ -1,7 +1,7 @@
-languages:
-  - ruby
+puts "meal_choice(meat)
+   ruby
 tags:
-  - methods
-  - default arguments
+   methods
+   default arguments
 resources: 1
 
